@@ -12,6 +12,6 @@ public class Persona {
     }
 
     public String hacerLoSuyo() {
-        return "";
+        return "Hacer cuarentena";
     }
 }
